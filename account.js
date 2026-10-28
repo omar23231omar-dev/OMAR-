@@ -1,26 +1,26 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "OMAR";
+var website_name = "YASIN";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "https://t.me/omartopu";
+var telegram_channel_link = "telegram channel link";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "https://t.me/+Wm7lKM5M6EU4Nzg1";
+var telegram_group_link = "telegram group link";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "https://www.youtube.com/@omarPlays2.0";
+var youtube_channel_link = "YouTube channel link";
 
 // =======================================================
 // NOTIFICATION TEXT
 // =======================================================
 var notification_text = `সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
 ১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে
-অর্ডার করুন নিশ্চিন্তে ধন্যবাদ`;
+অর্ডার করুন নিশ্চিন্তে ♥️`;
